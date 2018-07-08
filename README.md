@@ -10,11 +10,11 @@ Appropriate credits are given in the .py scripts themselves.
 
 You can get the phase files from either:
 
-[Toontown Rewritten](https://toontownrewritten.com)
+[Toontown Rewritten](https://www.toontownrewritten.com/play)
 
 or
 
-[Toontown Offline](https://ttoffline.com)
+[Toontown Offline](https://ttoffline.com/download)
 
 Both will work the same.
 
