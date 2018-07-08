@@ -18,3 +18,14 @@ or
 
 Both will work the same.
 
+# Stuff i want to make clear right off the bat
+
+1: The phase files MUST be unpacked for them to work properly.
+
+You can unpack them by opening Command Prompt, cd'ing to the directory where your phase files are in and type:
+
+multify.exe -x -f phase_x.mf (replace phase_x.mf with the name of the phase files, like phase_3.mf)
+
+And then do the procedure described in Requirements (i.e placing the UNPACKED phase files both in the root directory and the Panda3D /models/ directory).
+
+2: toontown.py MUST be placed in the same directory as the .py scripts you have downloaded from this repository.
