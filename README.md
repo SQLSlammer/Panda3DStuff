@@ -24,7 +24,9 @@ Both will work the same.
 
 You can unpack them by opening Command Prompt, cd'ing to the directory where your phase files are in and type:
 
-multify.exe -x -f phase_x.mf (replace phase_x.mf with the name of the phase files, like phase_3.mf)
+multify.exe -x -f phase_x.mf
+
+(replace phase_x.mf with the name of the phase files, like phase_3.mf)
 
 And then do the procedure described in Requirements (i.e placing the UNPACKED phase files both in the root directory and the Panda3D /models/ directory).
 
