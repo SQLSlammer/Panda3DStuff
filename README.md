@@ -1,5 +1,5 @@
 # Panda 3D Stuff
-This repository is for my python scrips for rooms that i will maybe use for animations.
+This repository is for my python scripts for rooms and other things that i will maybe use for animations.
 
 Appropriate credits are given in the .py scripts themselves.
 
