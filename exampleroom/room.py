@@ -1,6 +1,6 @@
 #=============================================================#
 # Example Room v 1.0                                          #
-# Code by Sir McQuack (yoshi295295/512k)                      #
+# Code by Sir McQuack (yoshi295295/outrunning)                #
 # Thank you to:                                               #
 # QED1224 and Cell1234 for toontown.py and making life easier #
 # Laosinaa for giving me a starting point in Panda3D          #
