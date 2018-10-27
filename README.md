@@ -36,6 +36,6 @@ And then do the procedure described in Requirements (i.e placing the UNPACKED ph
 
 1. Open Command Pompt and cd to the directory with the .py script.
 
-2. type "ppython.exe room.py" (without the double quotes; if you changed the name of the .py file, replace room.py with the new name of the script)
+2. type `ppython.exe room.py` (if you changed the name of the .py file, replace room.py with the new name of the script)
 
 You're good to go.
